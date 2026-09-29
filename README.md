@@ -76,4 +76,49 @@ python solution for question 1-50
  
 ### Question 25
 ![Screenshot 25](https://i.ibb.co/Sw28bTND/Screenshot-2026-09-25-123553.png)
+
+### Question 26
+![Screenshot 26](https://i.ibb.co/b5PLzHh7/Screenshot-2026-09-28-123403.png)
+ 
+### Question 27
+![Screenshot 27](https://i.ibb.co/NnbkG15X/Screenshot-2026-09-29-112615.png)
+ 
+### Question 28
+![Screenshot 28](https://i.ibb.co/qqXD7s7/Screenshot-2026-09-29-112639.png)
+ 
+### Question 29
+![Screenshot 29](https://i.ibb.co/dsM2cRRX/Screenshot-2026-09-29-112655.png)
+ 
+### Question 30
+![Screenshot 30](https://i.ibb.co/8L0rqBtY/Screenshot-2026-09-29-112709.png)
+ 
+### Question 31
+![Screenshot 31](https://i.ibb.co/TBmdmxKk/Screenshot-2026-09-29-112722.png)
+ 
+### Question 32
+![Screenshot 32](https://i.ibb.co/604HCWQV/Screenshot-2026-09-29-112732.png)
+ 
+### Question 33
+![Screenshot 33](https://i.ibb.co/9m4cNJj5/Screenshot-2026-09-29-112741.png)
+ 
+### Question 34
+![Screenshot 34](https://i.ibb.co/snKLSY4/Screenshot-2026-09-29-112812.png)
+ 
+### Question 35
+![Screenshot 35](https://i.ibb.co/4ZRkgFYC/Screenshot-2026-09-29-112828.png)
+ 
+### Question 36
+![Screenshot 36](https://i.ibb.co/67kfY6Zj/Screenshot-2026-09-29-113032.png)
+ 
+### Question 37
+![Screenshot 37](https://i.ibb.co/W4SBrPJC/Screenshot-2026-09-29-113056.png)
+ 
+### Question 38
+![Screenshot 38](https://i.ibb.co/84Bz0mGP/Screenshot-2026-09-29-113125.png)
+ 
+### Question 39
+![Screenshot 39](https://i.ibb.co/jXyk1Vj/Screenshot-2026-09-28-123319.png)
+ 
+### Question 40
+![Screenshot 40](https://i.ibb.co/RpDLzQ3H/Screenshot-2026-09-28-123346.png)
  
