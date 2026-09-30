@@ -80,8 +80,7 @@ python solution for question 1-50
 ### Question 26
 ![Screenshot 26](https://i.ibb.co/jXyk1Vj/Screenshot-2026-09-28-123319.png)
  
-### Question 27
-![Screenshot 27](https://i.ibb.co/RpDLzQ3H/Screenshot-2026-09-28-123346.png)
+
  
 ### Question 28
 ![Screenshot 28](https://i.ibb.co/b5PLzHh7/Screenshot-2026-09-28-123403.png)
@@ -98,17 +97,7 @@ python solution for question 1-50
 ### Question 32
 ![Screenshot 32](https://i.ibb.co/8L0rqBtY/Screenshot-2026-09-29-112709.png)
  
-### Question 33
-![Screenshot 33](https://i.ibb.co/TBmdmxKk/Screenshot-2026-09-29-112722.png)
- 
-### Question 34
-![Screenshot 34](https://i.ibb.co/604HCWQV/Screenshot-2026-09-29-112732.png)
- 
-### Question 35
-![Screenshot 35](https://i.ibb.co/9m4cNJj5/Screenshot-2026-09-29-112741.png)
- 
-### Question 36
-![Screenshot 36](https://i.ibb.co/snKLSY4/Screenshot-2026-09-29-112812.png)
+
  
 ### Question 37
 ![Screenshot 37](https://i.ibb.co/4ZRkgFYC/Screenshot-2026-09-29-112828.png)
