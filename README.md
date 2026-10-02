@@ -230,6 +230,34 @@ python solution for question 1-50
  
 ### Que No: 80
 ![Question 80](https://i.ibb.co/zkDZ44n/Screenshot-2026-09-30-082002.png)
+
+### Question 83
+![Screenshot 83](https://i.ibb.co/Z6rvDpCG/Screenshot-2026-10-03-004501.png)
+ 
+### Question 84
+![Screenshot 84](https://i.ibb.co/CssvYJ8W/Screenshot-2026-10-03-004519.png)
+ 
+### Question 85
+![Screenshot 85](https://i.ibb.co/HT5q6nwj/Screenshot-2026-10-03-004538.png)
+ 
+### Question 86
+![Screenshot 86](https://i.ibb.co/5x5rC4L1/Screenshot-2026-10-03-004651.png)
+ 
+### Question 87
+![Screenshot 87](https://i.ibb.co/KxGmNh34/Screenshot-2026-10-03-004705.png)
+ 
+### Question 88
+![Screenshot 88](https://i.ibb.co/8nXMByR9/Screenshot-2026-10-03-004736.png)
+ 
+### Question 89
+![Screenshot 89](https://i.ibb.co/Ld23zf3R/Screenshot-2026-10-03-004803.png)
+ 
+### Question 90
+![Screenshot 90](https://i.ibb.co/svzDwqzp/Screenshot-2026-10-03-004825.png)
+ 
+### Question 91
+![Screenshot 91](https://i.ibb.co/VYfNTWXW/Screenshot-2026-10-03-004914.png)
+ 
  
 
  
